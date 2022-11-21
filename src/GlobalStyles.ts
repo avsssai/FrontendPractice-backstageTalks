@@ -36,6 +36,8 @@ body {
   --color-blue:#1d3fbb;
   --color-red:#e30512;
   --color-pink:#E568AC;
+  --color-black:#251d20;
+  color:var(--color-black);
 }
 /*
   6. Improve media defaults
